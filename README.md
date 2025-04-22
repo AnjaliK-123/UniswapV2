@@ -10,33 +10,8 @@ This directory contains the Solidity smart contracts for Uniswap V2, upgraded to
 - `test/` - Test files with 100% coverage
 - `script/` - Deployment scripts
 
-## Setting Up Locally
-
-1. Install Foundry:
-   ```bash
-   curl -L https://foundry.paradigm.xyz | bash
-   foundryup
-   ```
-
-2. Build the contracts:
-   ```bash
-   forge build
-   ```
-
-3. Run tests:
-   ```bash
-   forge test
-   ```
-
-4. Run coverage reports:
-   ```bash
-   forge coverage
-   ```
-
-5. Deploy to a local network:
-   ```bash
-   forge script script/Deploy.s.sol --rpc-url http://localhost:8545 --broadcast
-   ```
+## Testnet - 
+- Mainnet_testnet - https://virtual.mainnet.rpc.tenderly.co/32761de4-da0a-455a-8a72-1b42b510e5e9
 
 ## Upgraded Features
 
@@ -55,3 +30,4 @@ For more information about the original Uniswap V2 codebase, check:
 
 ## Project 
 https://genuine-mochi-415ce3.netlify.app/
+
