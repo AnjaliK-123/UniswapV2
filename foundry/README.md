@@ -18,26 +18,6 @@ This directory contains the Solidity smart contracts for Uniswap V2, upgraded to
    foundryup
    ```
 
-2. Build the contracts:
-   ```bash
-   forge build
-   ```
-
-3. Run tests:
-   ```bash
-   forge test
-   ```
-
-4. Run coverage reports:
-   ```bash
-   forge coverage
-   ```
-
-5. Deploy to a local network:
-   ```bash
-   forge script script/Deploy.s.sol --rpc-url http://localhost:8545 --broadcast
-   ```
-
 ## Upgraded Features
 
 - Updated to Solidity 0.8.x
@@ -49,5 +29,10 @@ This directory contains the Solidity smart contracts for Uniswap V2, upgraded to
 ## Reference Material
 
 For more information about the original Uniswap V2 codebase, check:
+
 - [Uniswap V2 Core](https://github.com/Uniswap/v2-core)
 - [Uniswap V2 Periphery](https://github.com/Uniswap/v2-periphery)
+
+## Project
+
+https://genuine-mochi-415ce3.netlify.app/
