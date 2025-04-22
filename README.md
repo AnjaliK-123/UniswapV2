@@ -12,7 +12,6 @@ This directory contains the Solidity smart contracts for Uniswap V2, upgraded to
 
 ## Testnet - 
 - Mainnet_testnet - https://virtual.mainnet.rpc.tenderly.co/32761de4-da0a-455a-8a72-1b42b510e5e9
-- Fork1 - https://virtual.mainnet.rpc.tenderly.co/6ea19e23-f861-4163-8fbf-daf1d08372a7
 
 ## Upgraded Features
 
